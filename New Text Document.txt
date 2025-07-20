@@ -1,0 +1,24 @@
+6 LEDs Blinking Using Arduino in Proteus:
+
+Overview:
+In Proteus, you can simulate an 
+Arduino controlling 6 LEDs to blink 
+in sequence or together. 
+This is a basic project for 
+learning Arduino programming 
+and Proteus circuit simulation.
+
+
+Circuit Description:
+Place an Arduino UNO board in Proteus.
+
+Connect 6 LEDs to Arduino digital pins (e.g., Pin 13,12,11,10,9,8).
+
+Connect 220Ω resistors in series with each LED to limit current.
+
+The cathode (short leg) of each LED connects to GND, 
+and the anode connects to Arduino pins through the resistors.
+
+ 
+https://youtu.be/mYqa8mL0MuE
+
